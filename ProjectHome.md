@@ -1,0 +1,3 @@
+The specs for the data files from Jedi Knight (built on the 'Sith' engine) are available online (although you might have to hunt for them). Many of the files are plain text, and are fairly easily interpreted just from inspection.
+
+This is some code that tidily loads (some of!) those data files and presents them with a tidy interface. A viewer program ('jklview') and an unpacker ('ungob') are included.
